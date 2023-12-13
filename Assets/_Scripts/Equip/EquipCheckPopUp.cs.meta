@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e61ccd19fdd30ce40884ae38e826efbd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - equipCheckCanvas: {instanceID: 0}
+  - equipOnText: {instanceID: 0}
+  - equipOffText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
